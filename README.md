@@ -9,8 +9,8 @@ seating allocation will begin at the row farthest from the screen (for our purpo
 3 seat buffer). Therefore, it is assumed that every other row in the theater will not be used for seating allocations. 
 - Seating will be allocated on a first come, first served basis. Meaning that the input file will be processed line
 by line with R001 being the first allocation of seating.
-- Customers agree to have their group split up if consecutive seating within the same row cannot be accommodated and 
-there are enough seats in the theater,
+- Customers will agree to have their group split up if consecutive seating within the same row cannot be accommodated and 
+if there are enough seats in the theater.
 
 ## Build Scripts
 ### Before building:
