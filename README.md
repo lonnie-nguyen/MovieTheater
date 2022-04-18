@@ -14,7 +14,8 @@ there are enough seats in the theater,
 
 ## Build Scripts
 ### Before building:
-1. In a terminal window, navigate to the root directory of the project.
+1. Fork and clone this project on your local machine where you will be running it.
+2. In a terminal window, navigate to the root directory of the project.
 
 The following script builds and tests the project:
 ```commandline
@@ -25,7 +26,7 @@ The following script runs the unit tests:
 ./gradlew test
 ```
 ### Before running:
-1. Fork and clone this project on your local machine where you will be running it.
+1. Fork and clone this project on your local machine where you will be running it (if you have not already done so).
 2. Create an Input.txt file. For example:
 > R001 2
 > 
