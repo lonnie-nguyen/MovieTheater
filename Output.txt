@@ -1,0 +1,15 @@
+R001 A1, A2
+R002 A6, A7, A8, A9
+R003 A13, A14, A15, A16
+R004 C1, C2, C3
+R005 C7, C8, C9, C10, C11, C12
+R006 A20
+R007 E1, E2, E3, E4, E5, E6, E7, E8, E9, E10, E11, E12, E13, E14
+R008 G1, G2, G3, G4, G5, G6, G7, G8, G9, G10, G11, G12, G13, G14, G15, G16, G17, G18, G19
+R009 I1, I2, I3, I4, I5, I6, I7, I8
+R0010 C16, C17, C18, C19
+R0011 E18, E19, E20, I12, I13, I14, I15, I16, I17, I18, I19
+R0012 No reservation made. Amount of seats requested exceeds available seats. 
+R0013 No reservation made. Amount of seats requested exceeds available seats. 
+R0014 No reservation made. Amount of seats requested exceeds available seats. 
+R0015 No reservation made. Amount of seats requested exceeds available seats. 
