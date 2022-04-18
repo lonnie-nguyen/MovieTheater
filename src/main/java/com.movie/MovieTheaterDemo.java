@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.Scanner;
 
 public class MovieTheaterDemo {
@@ -28,6 +30,7 @@ public class MovieTheaterDemo {
             System.err.println("Error: File not found.");
         }
         movieTheater.printSeatingMap();
-        System.out.println("/Users/lon/Documents/GitHub/MovieTheater/Output.txt");
+        Path path = Paths.get("Output.txt");
+        System.out.println("Path to output file: " + path.toAbsolutePath());
     }
 }
