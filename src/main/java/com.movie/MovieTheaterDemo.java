@@ -29,7 +29,7 @@ public class MovieTheaterDemo {
         } catch (FileNotFoundException e) {
             System.err.println("Error: File not found.");
         }
-        movieTheater.printSeatingMap();
+
         Path path = Paths.get("Output.txt");
         System.out.println("Path to output file: " + path.toAbsolutePath());
     }
